@@ -2,7 +2,7 @@
 
 I'm Yasmin, a Geophysics Engineering graduate with a passion for exploring the exciting world of data science and machine learning. 
 
-## ✏️ Projects
+## 🔭 Projects
 
 - **[Library Borrowing System](https://github.com/fathimahyasmin/Library-Borrowing-System):** A simple program to facilitates the borrowing process for both library members and administrators. It provides functionalities such as searching for books, registering borrowings, checking borrowing history, managing databases, and more.
 
@@ -21,7 +21,7 @@ I'm Yasmin, a Geophysics Engineering graduate with a passion for exploring the e
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## 📈 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=fathimahyasmin&theme=green-nur&border_radius=)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fathimahyasmin&theme=black-ice&border_radius=)](https://git.io/streak-stats)
 
 
 <!--
