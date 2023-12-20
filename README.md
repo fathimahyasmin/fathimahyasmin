@@ -23,7 +23,7 @@ I'm Yasmin, a Geophysics Engineering graduate with a passion for exploring the e
 ## 📈 Stats
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fathimahyasmin&theme=prussian&border_radius=" alt="GitHub Streak" />
-    <img src="https://streak-stats.demolab.com?user=fathimahyasmin&theme=green-nurx&border_radius=" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=fathimahyasmin&theme=prussianx&border_radius=" alt="GitHub Streak" />
 </picture>
 
 
