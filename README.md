@@ -20,6 +20,11 @@ I'm Yasmin, a Geophysics Engineering graduate with a passion for exploring the e
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+## Stats
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fathimahyasmin&theme=prussian" />
+    <img src="https://streak-stats.demolab.com?user=fathimahyasmin&theme=default" />
+</picture>
 
 <!--
 **fathimahyasmin/fathimahyasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
