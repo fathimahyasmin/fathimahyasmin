@@ -5,12 +5,15 @@ I'm Yasmin, a Geophysics Engineering graduate with a passion for exploring the e
 ## ✏️ Projects
 
 - **[Library Borrowing System](https://github.com/fathimahyasmin/Library-Borrowing-System)**
+
 A simple program to facilitates the borrowing process for both library members and administrators. It provides functionalities such as searching for books, registering borrowings, checking borrowing history, managing databases, and more.
 
 - **[Supermarket Customer Analysis](https://github.com/fathimahyasmin/Supermarket-Customer-Analysis)**
+
 Conduct data analysis to segment customers based on purchase behavior, aiding the marketing division in targeting their efforts effectively.
 
 - **[Customer Classification for Bank Marketing Campaign](https://github.com/fathimahyasmin/BankMarketingCampaign)**
+
 Build a machine learning classification model to assist banks in identifying potential customers for term-deposit investments. This model aim to maximize profit and minimize marketing costs.
 
 
