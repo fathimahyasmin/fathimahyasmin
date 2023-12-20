@@ -1,6 +1,11 @@
-# Hi there 👋
+![github-header-image (1)](https://github.com/fathimahyasmin/fathimahyasmin/assets/98755582/569f5197-1ecf-497b-bd67-8bc7a177bd52)
+
+## 🚀 About Me
 
 I'm Yasmin, a Geophysics Engineering graduate with a passion for exploring the exciting world of data science and machine learning. 
+- 🌱 I’m currently learning MLOps
+- :handshake: Connect with me through [linkedin](https://www.linkedin.com/in/fathimah-yasmin-422b86141/)
+- :newspaper: Read my article on [medium](https://medium.com/@fathimahyasmin21)
 
 ## 🔭 Projects
 
@@ -22,7 +27,6 @@ I'm Yasmin, a Geophysics Engineering graduate with a passion for exploring the e
 
 ## 📈 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=fathimahyasmin&theme=black-ice&border_radius=)](https://git.io/streak-stats)
-
 
 <!--
 **fathimahyasmin/fathimahyasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
