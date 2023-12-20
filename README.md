@@ -21,10 +21,7 @@ I'm Yasmin, a Geophysics Engineering graduate with a passion for exploring the e
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## 📈 Stats
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fathimahyasmin&theme=prussian&border_radius=" alt="GitHub Streak" />
-    <img src="https://streak-stats.demolab.com?user=fathimahyasmin&theme=prussianx&border_radius=" alt="GitHub Streak" />
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com?user=fathimahyasmin&theme=green-nur&border_radius=)](https://git.io/streak-stats)
 
 
 <!--
