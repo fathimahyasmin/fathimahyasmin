@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/fathimahyasmin/fathimahyasmin/assets/98755582/569f5197-1ecf-497b-bd67-8bc7a177bd52)
+![github-header-image (7)](https://github.com/fathimahyasmin/fathimahyasmin/assets/98755582/e8bf74a7-9d8b-44b9-8c6a-60a681e50f6c)
+
 
 ## 🚀 About Me
 
@@ -26,7 +27,7 @@ I'm Yasmin, a Geophysics Engineering graduate with a passion for exploring the e
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## 📈 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=fathimahyasmin&theme=black-ice&border_radius=)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fathimahyasmin&theme=navy-gear&border_radius=)](https://git.io/streak-stats)
 
 <!--
 **fathimahyasmin/fathimahyasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
